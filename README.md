@@ -2,7 +2,7 @@
 
 This is a simple operating system created from scratch with assembly and C. 
 
-![alt text](screenshot.png)
+![alt text](./test/screenshot.jpg)
 
 # Requirements:
 1. The latest version of the **QEMU Simulator**
